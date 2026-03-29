@@ -1,4 +1,4 @@
-```md
+
 # Medicine Reminder & Inventory System
 
 A Java-based console application that helps users manage medicine inventory, monitor stock availability, check expiry dates, and schedule reminders for medicines.
@@ -25,7 +25,7 @@ Many people face the following issues in daily life:
 
 The Medicine Reminder & Inventory System solves this problem by providing a structured Java-based inventory and reminder management system.
 
----
+
 
 ## 3. Features
 
@@ -76,8 +76,8 @@ database/
 
 README.md
 .gitignore
-```
 
+```
 ---
 
 ## 6. Important Files

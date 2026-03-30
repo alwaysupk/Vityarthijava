@@ -310,7 +310,7 @@ Possible future enhancements include:
 - email or mobile notification support
 
 ---
-## Some Screenshots of the Project
+## 15. Some Screenshots of the Project
 
 ![img_1.png](src/images/img_1.png)
     ![img_2.png](src/images/img_2.png)
@@ -320,19 +320,19 @@ Possible future enhancements include:
     ![img_5.png](src/images/img_5.png)
     
 
-## 15. Final Note
+## 16. Final Note
 
 This project is a practical application of Java programming concepts to solve a real-world healthcare management problem. It demonstrates the use of Java fundamentals, object-oriented design, exception handling, collections, JDBC database connectivity, and modular code organization in a meaningful and usable way.
 
 ---
 
-## 16. Author
+## 17. Author
 
 **Kushagra Tewari 24BAI10609**
 
 ---
 
-## 17. Academic Use
+## 18. Academic Use
 
 This project was created for academic submission as part of the **Programming in Java** course.
 ```

@@ -312,7 +312,7 @@ Possible future enhancements include:
 ---
 ## Some Screenshots of the Project
 
-    ![img_1.png](src/images/img_1.png)
+![img_1.png](src/images/img_1.png)
     ![img_2.png](src/images/img_2.png)
     ![img.png](src/images/img.png)
     ![img_3.png](src/images/img_3.png)

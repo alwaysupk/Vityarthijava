@@ -312,17 +312,13 @@ Possible future enhancements include:
 ---
 ## Some Screenshots of the Project
 ```
-    ![Main Menu](img_1.png)
-
-    ![Main Menu](img_2.png)
-
-    ![Main Menu](img.png)
+    ![img_1.png](src/images/img_1.png)
+    ![img_2.png](src/images/img_2.png)
+    ![img.png](src/images/img.png)
+    ![img_3.png](src/images/img_3.png)
+    ![img_4.png](src/images/img_4.png)
+    ![img_5.png](src/images/img_5.png)
     
-    ![Main Menu](img_3.png)
-
-    ![Main Menu](img_4.png)
-
-    ![Main Menu](img_5.png)
 ```
 ## 15. Final Note
 

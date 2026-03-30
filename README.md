@@ -311,7 +311,7 @@ Possible future enhancements include:
 
 ---
 ## Some Screenshots of the Project
-```
+
     ![img_1.png](src/images/img_1.png)
     ![img_2.png](src/images/img_2.png)
     ![img.png](src/images/img.png)
@@ -319,7 +319,7 @@ Possible future enhancements include:
     ![img_4.png](src/images/img_4.png)
     ![img_5.png](src/images/img_5.png)
     
-```
+
 ## 15. Final Note
 
 This project is a practical application of Java programming concepts to solve a real-world healthcare management problem. It demonstrates the use of Java fundamentals, object-oriented design, exception handling, collections, JDBC database connectivity, and modular code organization in a meaningful and usable way.
